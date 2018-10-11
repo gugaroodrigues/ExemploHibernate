@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/T:/Documentos/NetBeansProjects/ExemploHibernate00/src/Aluno.hbm.xml</file>
+            <file>file:/T:/Documentos/NetBeansProjects/ExemploHibernate00/src/bean/Sistema.java</file>
+            <file>file:/T:/Documentos/NetBeansProjects/ExemploHibernate00/src/hibernate.cfg.xml</file>
+            <file>file:/T:/Documentos/NetBeansProjects/ExemploHibernate00/src/database/Conexao.java</file>
+            <file>file:/T:/Documentos/NetBeansProjects/ExemploHibernate00/src/dao/AlunoDAO.java</file>
+            <file>file:/T:/Documentos/NetBeansProjects/ExemploHibernate00/src/bean/Aluno.java</file>
+            <file>file:/T:/Documentos/NetBeansProjects/ExemploHibernate00/src/view/AlunoCadastro.java</file>
+            <file>file:/T:/Documentos/NetBeansProjects/ExemploHibernate00/src/sistema.hbm.xml</file>
+            <file>file:/T:/Documentos/NetBeansProjects/ExemploHibernate00/src/Principal.java</file>
+        </group>
+    </open-files>
+</project-private>
